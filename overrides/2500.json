@@ -122,7 +122,6 @@
     "fastMove": "SHADOW_CLAW",
     "chargedMoves": ["SACRED_SWORD","IRON_HEAD"],
     "weight": 4,
-    "editorNotes": "Doublade has yet to see competitive success in any league, so there are many reasons to be skeptical of its Ultra League prospects. The resources required to build it are better invested in its evolution, Aegislash."
   },
   {
     "speciesId": "dragalge",
@@ -153,14 +152,12 @@
     "fastMove": "ASTONISH",
     "chargedMoves": ["DYNAMIC_PUNCH","SHADOW_PUNCH"],
     "weight": 1,
-    "editorNotes": "Dusknoir combines offensive pressure and great coverage in a strong Ghost-type package. It may not see as much play as more established Ghosts, like Giratina or Jellicent. The Shadow version is typically preferred for the additional pressure."
   },
   {
     "speciesId": "dusknoir_shadow",
     "fastMove": "ASTONISH",
     "chargedMoves": ["DYNAMIC_PUNCH","SHADOW_PUNCH"],
-    "weight": 1,
-    "editorNotes": "Dusknoir combines offensive pressure and great coverage in a strong Ghost-type package. It may not see as much play as more established Ghosts, like Giratina or Jellicent. The Shadow version is typically preferred for the additional pressure."
+    "weight": 1
   },
   {
     "speciesId": "enamorus_incarnate",
@@ -190,8 +187,7 @@
     "speciesId": "florges",
     "fastMove": "FAIRY_WIND",
     "chargedMoves": ["CHILLING_WATER","MOONBLAST"],
-    "weight": 1,
-    "editorNotes": "Florges echoes Tapu Fini, but brings improved pacing and closing power which make it a top meta contender. Stat effects from either Chilling Water or Trailblaze amplify Florges's neutral play. Florges may have reduced play with the onset of Tinkaton."
+    "weight": 1
   },
   {
     "speciesId": "frosmoth",
@@ -237,15 +233,13 @@
     "speciesId": "giratina_altered",
     "fastMove": "DRAGON_BREATH",
     "chargedMoves": ["DRAGON_CLAW","SHADOW_FORCE"],
-    "weight": 10,
-    "editorNotes": "Once the mascot of the format, recent changes have seen Giratina's play decline. It is weak to both of its sub-typings and no longer stands out as the best Ghost or the best Dragon. While its place in the metagame is shaky, it's still plenty competitive. The regular version has the longer tenure, and the Shadow version may be held back by its moderate pacing."
+    "weight": 10
   },
   {
     "speciesId": "giratina_altered_shadow",
     "fastMove": "DRAGON_BREATH",
     "chargedMoves": ["DRAGON_CLAW","SHADOW_FORCE"],
-    "weight": 1,
-    "editorNotes": "Once the mascot of the format, recent changes have seen Giratina's play decline. It is weak to both of its sub-typings and no longer stands out as the best Ghost or the best Dragon. While its place in the metagame is shaky, it's still plenty competitive. The regular version has the longer tenure, and the Shadow version may be held back by its moderate pacing."
+    "weight": 1
   },
   {
     "speciesId": "golisopod",
@@ -393,8 +387,7 @@
     "speciesId": "moltres_galarian",
     "fastMove": "SUCKER_PUNCH",
     "chargedMoves": ["FLY","BRAVE_BIRD"],
-    "weight": 12,
-    "editorNotes": "Galarian Moltres is still a strong contender in Ultra League, but the Tinkaton's ubiquity poses a major challenge for it."
+    "weight": 12
   },
   {
     "speciesId": "muk",
@@ -459,15 +452,13 @@
     "speciesId": "ninetales_alolan",
     "fastMove": "POWDER_SNOW",
     "chargedMoves": ["WEATHER_BALL_ICE","CHILLING_WATER"],
-    "weight": 1,
-    "editorNotes": "The sims don't always use Chilling Water optimally, so Alolan Ninetales should perform better in some head to head matchups than indicated. Chilling Water is a sidegrade, if not a slight improvement which gives Alolan Ninetales coverage against Fire and broader technical play."
+    "weight": 1
   },
   {
     "speciesId": "ninetales_alolan_shadow",
     "fastMove": "POWDER_SNOW",
     "chargedMoves": ["WEATHER_BALL_ICE","CHILLING_WATER"],
-    "weight": 1,
-    "editorNotes": "The sims don't always use Chilling Water optimally, so Alolan Ninetales should perform better in some head to head matchups than indicated. Chilling Water is a sidegrade, if not a slight improvement which gives Alolan Ninetales coverage against Fire and broader technical play."
+    "weight": 1
   },
   {
     "speciesId": "ninetales_shadow",
@@ -568,8 +559,7 @@
     "speciesId": "runerigus",
     "fastMove": "SHADOW_CLAW",
     "chargedMoves": ["ROCK_TOMB","SHADOW_BALL"],
-    "weight": 6,
-    "editorNotes": "Access to Rock Tomb allows Runerigus to shine in Ultra League, where it takes more advantage of its bulk. As such, it's quickly established itself in the metagame. Without Ground-type offenses, it functions more as a neutral pick than a true Ground type like Gastrodon. Its Water weakness can be a liability."
+    "weight": 6
   },
   {
     "speciesId": "salazzle",
@@ -604,8 +594,7 @@
     "speciesId": "scizor_shadow",
     "fastMove": "BULLET_PUNCH",
     "chargedMoves": ["NIGHT_SLASH","TRAILBLAZE"],
-    "weight": 1,
-    "editorNotes": "Scizor's potent offenses make it a wallbreaker against the format's bulky picks. The Shadow version is typically preferred to increase its power even further. Fire types like Talonflame are declining, so Scizor has even less to fear."
+    "weight": 1
   },
   {
     "speciesId": "scolipede",
@@ -679,15 +668,13 @@
     "speciesId": "talonflame",
     "fastMove": "INCINERATE",
     "chargedMoves": ["FLY","BRAVE_BIRD"],
-    "weight": 18,
-    "editorNotes": "Talonflame is a longtime staple of Ultra League. The prominence of Water and Dragon types keeps it from dominating, but it serves a vital role against the format's Steel types."
+    "weight": 18
   },
   {
     "speciesId": "talonflame_shadow",
     "fastMove": "INCINERATE",
     "chargedMoves": ["FLY","BRAVE_BIRD"],
-    "weight": 1,
-    "editorNotes": "Talonflame is a longtime staple of Ultra League. The prominence of Water and Dragon types keeps it from dominating, but it serves a vital role against the format's Steel types."
+    "weight": 1
   },
   {
     "speciesId": "tapu_bulu",
