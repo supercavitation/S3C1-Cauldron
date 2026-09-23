@@ -121,7 +121,7 @@
     "speciesId": "doublade",
     "fastMove": "SHADOW_CLAW",
     "chargedMoves": ["SACRED_SWORD","IRON_HEAD"],
-    "weight": 4,
+    "weight": 4
   },
   {
     "speciesId": "dragalge",
@@ -151,7 +151,7 @@
     "speciesId": "dusknoir",
     "fastMove": "ASTONISH",
     "chargedMoves": ["DYNAMIC_PUNCH","SHADOW_PUNCH"],
-    "weight": 1,
+    "weight": 1
   },
   {
     "speciesId": "dusknoir_shadow",
@@ -312,11 +312,13 @@
   {
     "speciesId": "houndoom",
     "fastMove": "INCINERATE",
+    "chargedMoves": ["FLAMETHROWER", "FOUL_PLAY"],
     "weight": 1
   },
   {
     "speciesId": "houndoom_shadow",
     "fastMove": "INCINERATE",
+    "chargedMoves": ["FLAMETHROWER", "FOUL_PLAY"],
     "weight": 1
   },
   {
