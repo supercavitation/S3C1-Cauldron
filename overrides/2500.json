@@ -499,6 +499,12 @@
     "weight": 1
   },
   {
+    "speciesId": "palossand_shadow",
+    "fastMove": "ASTONISH",
+    "chargedMoves": ["SHADOW_BALL","SAND_TOMB"],
+    "weight": 1
+  },
+  {
     "speciesId": "pangoro",
     "fastMove": "KARATE_CHOP",
     "chargedMoves": ["CLOSE_COMBAT","NIGHT_SLASH"],
